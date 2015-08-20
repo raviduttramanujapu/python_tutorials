@@ -74,7 +74,7 @@ print result
 Converting in to a function
 '''
 
-def calc_total(line, result, col_name, metric_name):
+def calc_total(line, result, col_name, metric_name, year):
   if line[col_name] != col_name:
       curr_country = line[col_name]
       if curr_country in result:
@@ -88,10 +88,14 @@ def calc_total(line, result, col_name, metric_name):
 result = {}
 col_name = 'Country'
 metric_name = 'ScoreRate'
+year = '2010'
 file.seek(0)
 for line in data:
-  calc_total(line, result, col_name, metric_name)
+  calc_total(line, result, col_name, metric_name, year)
   #line['Runs'] = line['Runs'].replace('', 'nan')
 
 
 print result
+
+
+
