@@ -37,6 +37,7 @@ print percen(60, 100)
 '''
 
 
+'''
 def product_sum(i,j):
     prod = i * j
     sum_input = i + j
@@ -46,3 +47,17 @@ def product_sum(i,j):
 
 a, b, c = product_sum(3,5)
 #print a, b, c
+'''
+
+
+a = [1, 2, 5]
+b = [1, 4, 5]
+
+def check_list(a, b):
+    for (x,y) in zip(a,b):
+        if x == y:
+            pass
+        else:
+            return False
+    return True
+print check_list(a, b)
