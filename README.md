@@ -14,3 +14,5 @@ Classes Details
 * Day 7: CSV exercises continued..3
 * Day 8: Scrapping introduced
 * Day 9: Tuples and modules introduced
+* Day 10: Modules explained in detail
+* Day 11: Mulitple error handling; Classes introduced
