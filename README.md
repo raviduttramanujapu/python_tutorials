@@ -1,11 +1,6 @@
-# python_tutorials
-Introduction to Python
+# Introduction to Python
 
-
-
-Classes Details
-===============
-
+### Topics
 * Day 1: Introduction to Python
   * Anaconda Installation
     * Advantage
@@ -13,8 +8,20 @@ Classes Details
   * Jupyter Notebook - Creating notebook, executing commands and markdown support
   * Single & Multi-line comment
   * Data types: Integer, Float, Boolean, String
-  * Advantage of automatic variable casting
 * Day 2: Introduction to `list` and  `for loops`
+  * Create a list
+  * len(list)
+  * Indexing (show image for example)
+  * Slicing
+  * Negative indexing & Slicing
+  * range()
+  * for loop using range()
+  * Display list elements using range()
+  * Display list elements without using range()
+  * enumerate for index and elements; Example - Multiply element and index
+  * Summation of a list, multiple list
+  * Introduce append to create new list
+  * List comprehension
 * Day 3: Introduction to `functions`
 * Day 4: Dictionary & Error handling introduced
 * Day 5: How to read data from csv
