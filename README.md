@@ -5,7 +5,15 @@ Introduction to Python
 
 Classes Details
 ===============
+
 * Day 1: Introduction to Python
+  * Anaconda Installation
+    * Advantage
+    * [Download Link](https://www.continuum.io/downloads) - python 3.5 64bit
+  * Jupyter Notebook - Creating notebook, executing commands and markdown support
+  * Single & Multi-line comment
+  * Data types: Integer, Float, Boolean, String
+  * Advantage of automatic variable casting
 * Day 2: Introduction to `list` and  `for loops`
 * Day 3: Introduction to `functions`
 * Day 4: Dictionary & Error handling introduced
