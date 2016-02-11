@@ -23,6 +23,12 @@
   * Introduce append to create new list
   * List comprehension
 * Day 3: Introduction to `functions`
+  * Syntax
+  * Passing arguments in order
+  * Passing arguments with name to avoid order
+  * return multiple outputs
+  * Create a bar chart, explain along with excel without scaling. If user interested explain scaling
+  * How to document a function
 * Day 4: Dictionary & Error handling introduced
 * Day 5: How to read data from csv
 * Day 6: CSV exercises continued..2
