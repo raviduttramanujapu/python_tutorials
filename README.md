@@ -29,8 +29,41 @@
   * return multiple outputs
   * Create a bar chart, explain along with excel without scaling. If user interested explain scaling
   * How to document a function
-* Day 4: Dictionary & Error handling introduced
-* Day 5: How to read data from csv
+* Day 4: Dictionary
+  * Syntax
+  * Can handle any data type. List, Nested Dictionary
+  * How to access an element. Compare with list
+  * How to access all the elements using three methods
+  * How to reverse a dictionary using the above three methods
+  * Pop, len, 
+* Day 5: Tuples
+  * Syntax
+  * How to access the elements
+  * Immuatable
+  * Functions returns tuples
+  * Packing and unpacking
+  * Zip Function
+* Day 6: Exercises
+  * Reverse a list
+  * Find unique elements
+  * Compare two list
+  * Print diamond shape
+
+* Error handling introduced
+  * Syntax
+  * General exception vs specific exception
+  * Multiple exception
+* Modules
+  * Inbuilt packages
+  * How to import packages
+  * Create a random number using numpy.randn
+  * Different ways of importing 
+* Day 7: File I/O:
+  * Read a CSV, Text file
+  * Reach each line in a CSV file
+  * Split the columns by separator
+  * Calculate total of a column
+  * Excercise: Create a dictionary of players and their runs
 * Day 6: CSV exercises continued..2
 * Day 7: CSV exercises continued..3
 * Day 8: Scrapping introduced
